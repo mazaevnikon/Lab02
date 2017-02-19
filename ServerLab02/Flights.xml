@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flightsList_list>
+    <Flight>
+        <flightNumber>DP-833</flightNumber>
+        <airbus>B-737-800</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Алматы</in>
+        </route>
+        <departureTime>23:00</departureTime>
+        <trackTime>5 ч 20 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>U6-1019</flightNumber>
+        <airbus>A-321</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Анталья</in>
+        </route>
+        <departureTime>14:10</departureTime>
+        <trackTime>1 ч 30 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>ZF-6323</flightNumber>
+        <airbus>B-757-200</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Бангкок</in>
+        </route>
+        <departureTime>20:00</departureTime>
+        <trackTime>12 ч 00 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>RL-8623</flightNumber>
+        <airbus>B-757-200</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Гоа</in>
+        </route>
+        <departureTime>18:20</departureTime>
+        <trackTime>8 ч 10 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>FZ-904</flightNumber>
+        <airbus>B-737-800</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Дубай</in>
+        </route>
+        <departureTime>15:10</departureTime>
+        <trackTime>4 ч 10 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>OK-911</flightNumber>
+        <airbus>A-319</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Прага</in>
+        </route>
+        <departureTime>05:40</departureTime>
+        <trackTime>2 ч 20 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>IK-2501</flightNumber>
+        <airbus>B-767-300</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Пхукет</in>
+        </route>
+        <departureTime>19:20</departureTime>
+        <trackTime>11 ч 40 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>U6-2977</flightNumber>
+        <airbus>A-320</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Худжанд</in>
+        </route>
+        <departureTime>01:45</departureTime>
+        <trackTime>04 ч 35 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>KK-6706</flightNumber>
+        <airbus>A-321</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Стамбул</in>
+        </route>
+        <departureTime>07:00</departureTime>
+        <trackTime>03 ч 20 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>A4-3856</flightNumber>
+        <airbus>A-520</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Нью-йорк</in>
+        </route>
+        <departureTime>08:00</departureTime>
+        <trackTime>06 ч 20 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>A5-3986</flightNumber>
+        <airbus>A-621</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Сеул</in>
+        </route>
+        <departureTime>10:00</departureTime>
+        <trackTime>11 ч 15 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>FK-5423</flightNumber>
+        <airbus>B-654-891</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Хельсенки</in>
+        </route>
+        <departureTime>06:23</departureTime>
+        <trackTime>02 ч 05 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>GK-3423</flightNumber>
+        <airbus>B-854-891</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Канберра</in>
+        </route>
+        <departureTime>08:00</departureTime>
+        <trackTime>12 ч 05 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>IA-55987</flightNumber>
+        <airbus>A-659</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Вена</in>
+        </route>
+        <departureTime>09:25</departureTime>
+        <trackTime>07 ч 10 мин</trackTime>
+    </Flight>
+    <Flight>
+        <flightNumber>UG-6482</flightNumber>
+        <airbus>A-128</airbus>
+        <route>
+            <out>Самара</out>
+            <in>Ватикан</in>
+        </route>
+        <departureTime>12:15</departureTime>
+        <trackTime>08 ч 15 мин</trackTime>
+    </Flight>
+</flightsList_list>
